@@ -14,7 +14,8 @@ Process for GitHub uploading:
 8. The local directory was initialized using 'git init' command
 9. The folders were staged, committed and pushed into newly created GitHub respository called Project-1-Biocomputing
 
-Command used and their meaning:
+
+Commands used and their meaning:
 1. mkdir command: used for creating new folder
 2. cd command: to change directory
 3. cp command: Used for copying the files from one location to another
